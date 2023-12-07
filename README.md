@@ -1,5 +1,5 @@
 ### Olá eu sou a Rayza 
 
 
-- 🔭 Hoje trabalho com Back-end 
+- 🔭 Hoje Estou em busca de novas oportunidades 
 - 🌱 Estudando 
