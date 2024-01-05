@@ -1,6 +1,6 @@
  ## Olá, eu sou a Rayza, Desenvolvedora de Sistemas Jr
  - No momento: em busca de novas oportunidades e estudando frontend
- - Vida acadêmica: cursando eng de controle e automação e análise e desenvolvimento de sistemas
+ - Vida acadêmica: téc em redes, cursando eng de controle e automação e análise e desenvolvimento de sistemas
  - Hobbies: assistir séries, escutar músicas e ir à praia
    
  ## Contatos:
