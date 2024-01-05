@@ -1,5 +1,8 @@
  ## Olá, eu sou a Rayza, Desenvolvedora de Sistemas Jr
- 
+ - No momento: em busca de novas oportunidades e estudando frontend
+ - Vida acadêmica: cursando eng de controle e automação e análise e desenvolvimento de sistemas
+ - Hobbies: assistir séries, escutar músicas e ir à praia
+   
  ## Contatos:
 
 <div>
@@ -7,11 +10,9 @@
 <a href="https://www.linkedin.com/in/rayzalimadev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
 ## Ferramentas e Tecnologias
 
 <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img loading="lazy"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"  /> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-
 
 ## Estou aprendendo
 
