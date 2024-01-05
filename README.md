@@ -1,10 +1,4 @@
-### Olá eu sou a Rayza 
-
-
-- 🔭 Hoje Estou em busca de novas oportunidades 
-- 🌱 Estudando
-
-  ## Contatos:
+ ## Contatos:
 
 <div>
 <a href = "mailto:rayzalimati@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
