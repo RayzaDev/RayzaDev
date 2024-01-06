@@ -14,8 +14,6 @@
 
 <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img loading="lazy"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"  /> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 
- ## Meu GitHub:
-
 <div>
 <a href="https://github.com/RayzaDev">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RayzaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayzaDev&layout=compact&langs_count=7&theme=dracula"/>
